@@ -1,0 +1,58 @@
+body{
+ 	background-color: #powderblue;
+ 	font-family: "Georgia", "Times New Roman", Times, serif;
+ 	color: #333333;
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ header {
+ 	background-color: #333333;
+ }
+
+ h1 {
+	color: #efeee7;
+	font-size: 28px;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom:20px;
+	text-align: center;
+ }
+
+ h2 {
+ 	font-size: 24px;
+ }
+
+ .container {
+ 	width: 1024px;
+ 	margin: auto;
+ }
+
+ #main-bio {
+ 	float: left;
+ 	width: 70%;
+ }
+
+ #contact-info {
+ 	float: left;
+ 	width: 30%;
+ 	line-height: 150%;
+ }
+
+ #bio-image {
+ 	float: left;
+ 	width: 200px;
+ 	margin: 20px;
+ }
+
+ a {
+ 	color: #d21034;
+ }
+
+ ul {
+ 	list-style-type: none;
+ }
+
+ p {
+ 	line-height: 30px;
+ }
